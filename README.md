@@ -20,3 +20,22 @@ Front-End products has distant intrinsic areas of work that differentiate each o
 The user needs are visual and material, they looking for data representation.
 
 The logic involves standards of data and requests to obtain a response. Solutions are configured like functionality structure to be called to get the data that users need to be represented.
+
+
+## Sandbox Branch
+This branch will integrate development path step by step.
+
+#### Development Path
+Development will follow design patterns.
+
+###### Design Patterns
+1. single purpose : logic structures shall not perform more than one functionality.
+2. isolation : identify parts from the whole and get them separate to avoid monolith applications.
+
+###### Development Steps Path
+1. [x] Setup Express Server
+2. [x] Setup Routes Endpoints (Front-End targets)
+3. [x] Setup Endpoints Requests Handlers (Front-End data extraction)
+4. [ ] Configuring External Data Services (keys, data entry points)
+5. [ ] Relate Endpoints Handlers with External Data Services
+6. [ ] Configure Response Handlers
